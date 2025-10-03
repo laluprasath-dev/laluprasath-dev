@@ -13,7 +13,7 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,js,ts,express,mongodb,postgres,redis,nextjs,docker,git,github,linux,vscode,gcp,gitlab,jest,npm,yarn,postman,prisma,supabase,vercel" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,postgres,nextjs,redis,docker,git,github,linux,vscode,gcp,gitlab,jest,npm,yarn,postman,prisma,supabase,vercel" />
 </p>
 
 ---
