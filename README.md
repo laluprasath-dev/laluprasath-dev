@@ -1,12 +1,51 @@
-- 👋 Hi, I’m @laluprasath-dev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Laluprasath  
 
-<!---
-laluprasath-dev/laluprasath-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Backend Developer** specializing in **Node.js** & **TypeScript**  
+🚀 3+ years of experience building **scalable APIs, microservices & SaaS applications**  
+⚡ Passionate about **system design, clean code, and problem solving**  
+
+---
+
+## 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,express,mongodb,postgres,redis,docker,git,github,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=laluprasath-code&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laluprasath-code&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 🚀 Current Focus  
+
+- Building **microservices architecture** with Node.js & Docker  
+- Scaling **e-commerce & SaaS platforms**  
+- Exploring **cloud-native development (GCP, AWS)**  
+
+---
+
+## 🌐 Connect with Me  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:laluprasath.dev.in@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Fun GIF  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
