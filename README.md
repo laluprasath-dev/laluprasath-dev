@@ -9,7 +9,7 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,js,ts,express,mongodb,postgres,redis,,nextjs,docker,git,github,linux,vscode,gcp,gitlab,jest,npm,yarn,postman,prisma,supabase,vercel" />
+  <img src="https://skillicons.dev/icons?i=nodejs,js,ts,express,mongodb,postgres,redis,nextjs,docker,git,github,linux,vscode,gcp,gitlab,jest,npm,yarn,postman,prisma,supabase,vercel" />
 </p>
 
 ---
@@ -47,5 +47,5 @@
 ## ⚡ Fun GIF  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTc3bnhoaXFxbTBkM3BncG9rbjEzc2Y4YXU1OXhibzJmdG5qZHhxayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif)" width="400" />
 </p>
