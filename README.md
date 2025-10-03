@@ -9,7 +9,7 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,express,mongodb,postgres,redis,docker,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=nodejs,js,ts,express,mongodb,postgres,redis,,nextjs,docker,git,github,linux,vscode,gcp,gitlab,jest,npm,yarn,postman,prisma,supabase,vercel" />
 </p>
 
 ---
@@ -17,8 +17,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laluprasath-code&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laluprasath-code&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=laluprasath-dev&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laluprasath-dev&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 ---
@@ -34,7 +34,7 @@
 ## 🌐 Connect with Me  
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/lalu-fintan/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:laluprasath.dev.in@gmail.com">
