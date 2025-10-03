@@ -47,5 +47,5 @@
 ## ⚡ Fun GIF  
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTc3bnhoaXFxbTBkM3BncG9rbjEzc2Y4YXU1OXhibzJmdG5qZHhxayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif)" width="400" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGMweW9rZzh3eWxkZjVvdm5hZmc3czQ0YWtzNnVicHJ5c2gxOHBzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="400" />
 </p>
