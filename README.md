@@ -6,6 +6,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGMweW9rZzh3eWxkZjVvdm5hZmc3czQ0YWtzNnVicHJ5c2gxOHBzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="400" />
+</p>
+
 ## 🛠️ Tech Stack  
 
 <p align="center">
@@ -44,8 +48,6 @@
 
 ---
 
-## ⚡ Fun GIF  
+ 
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGMweW9rZzh3eWxkZjVvdm5hZmc3czQ0YWtzNnVicHJ5c2gxOHBzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="400" />
-</p>
+
